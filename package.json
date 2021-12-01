@@ -1,7 +1,7 @@
 {
   "name": "react-native-formui",
   "version": "1.0.0",
-  "description": "Modern form UI kit for react-native application, with full hand control over customization",
+  "description": "A simple react-native component to wrap your form fields and get their values without attaching listeners everywhere.Modern form UI kit for react-native application, with full hand control over customization",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
