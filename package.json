@@ -1,0 +1,25 @@
+{
+  "name": "react-native-formui",
+  "version": "1.0.0",
+  "description": "Modern form UI kit for react-native application, with full hand control over customization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadqazi/react-native-formui.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "form",
+    "npm"
+  ],
+  "author": "Muhammad Qazi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammadqazi/react-native-formui/issues"
+  },
+  "homepage": "https://github.com/muhammadqazi/react-native-formui#readme"
+}
