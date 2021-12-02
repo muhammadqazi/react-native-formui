@@ -10,12 +10,12 @@ npm install --save react-native-formui
 ### Usage
 
 ```shell
-             <FormInput
+                 <FormInput
                     label="Password"
                     secureTextEntry={!showPass}
                     autoCompleteType="password"
                     containerStyle={{
-                        marginTop: SIZES.radius
+                        marginTop: 10
                     }}
                     onChange={(value) => {
                         utils.validatePassword(value, setPasswordError)
@@ -36,7 +36,7 @@ npm install --save react-native-formui
                                 style={{
                                     height: 20,
                                     width: 20,
-                                    tintColor: COLORS.gray
+                                    tintColor: 'gray'
                                 }}
                             />
                         </TouchableOpacity>
